@@ -6,12 +6,11 @@ Python has become an increasingly important tool in the domain of quantitative a
 
 In this talk, we'll learn a bit about Black-Scholes model, option pricing formula the "greeks" and how to code it all in Python. I'll then demonstrate how to gather options data using Pandas and apply various transformations to obtain the theoretical value of the option and the associated greeks. We'll then extend the talk to discuss implied volatility and show how to use Numpy methods to compute implied volatility and model missing and bad values. Finally, we'll use the results to visualize the so-called volatility skew and term structure to help inform potential trading decisions.
 
-## Online
+## Me online
 
 * [LinkedIn](https://sg.linkedin.com/in/jasonstrimpel)
 * [Twitter](https://twitter.com/jasonstrimpel)
 * [Github](https://github.com/jasonstrimpel)
 * [Blog](http://www.bespokeoptions.com/blog)
 * [Finance Tools](http://finance.jasonstrimpel.com)
-
-## Resources
+* [Meetup](http://www.meetup.com/members/37553102/)
