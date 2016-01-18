@@ -12,6 +12,6 @@ In this talk, we'll learn a bit about Black-Scholes model, the derived option pr
 * [Twitter](https://twitter.com/jasonstrimpel)
 * [Github](https://github.com/jasonstrimpel)
 * [Blog](http://www.bespokeoptions.com/blog)
-* [Finance Tools](http://finance.jasonstrimpel.com)
 * [Meetup](http://www.meetup.com/members/37553102/)
-* [PyQuant News] (http://www.pyquantnews.com)
+* [Finance Tools](http://finance.jasonstrimpel.com)
+* [PyQuant News](http://www.pyquantnews.com)
